@@ -1,0 +1,61 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/coil_volt.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/coil_volt.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module coil_volt
+
+Top level modules:
+	coil_volt
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/hub_wheel_model.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/hub_wheel_model.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module hub_wheel_model
+
+Top level modules:
+	hub_wheel_model
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/brushless_mtr_drv_tb2.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/brushless_mtr_drv_tb2.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module brushless_mtr_drv_tb2
+
+Top level modules:
+	brushless_mtr_drv_tb2
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/brushless.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/brushless.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module brushless
+
+Top level modules:
+	brushless
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/nonoverlap.sv} {2 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/nonoverlap.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module nonoverlap
+** Warning: C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/nonoverlap.sv(32): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/nonoverlap.sv(34): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	nonoverlap
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/PWM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/PWM.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module PWM11
+
+Top level modules:
+	PWM11
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/brushless_mtr_drv_tb.sv} {1 {vlog -work work -sv -stats=none {C:\Users\07yhx\Desktop\2022 Spring\ECE 551\Ex\HW 04\brushless_mtr_drv_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module brushless_mtr_drv_tb
+
+Top level modules:
+	brushless_mtr_drv_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/mtr_drv.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 04/mtr_drv.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module mtr_drv
+
+Top level modules:
+	mtr_drv
+
+} {} {}}

@@ -1,0 +1,17 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/10/nonoverlap_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/10/nonoverlap_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module nonoverlap_tb
+
+Top level modules:
+	nonoverlap_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/10/nonoverlap.sv} {2 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/10/nonoverlap.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module nonoverlap
+** Warning: C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/10/nonoverlap.sv(43): (vlog-2182) 'cnt' might be read before written in always_comb or always @* block.
+
+
+Top level modules:
+	nonoverlap
+
+} {} {}}

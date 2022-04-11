@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01
+vring_osc
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1643651400
+!i10b 1
+!s100 il1TM]HA=D:4H>l=9HIDl0
+Ine;eb2nPcP=AAe^e@YQdD2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ring_osc_sv_unit
+S1
+Z3 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02
+w1643650635
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc.sv
+L0 1
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1643651400.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc.sv|
+!i113 1
+Z6 o-work work -sv
+vring_osc_test_bench
+R0
+R1
+!i10b 1
+!s100 oA0[zmkV_AY@igPZclVMZ2
+IEWOE_F3RMaoidnk9XgNM?0
+R2
+!s105 ring_osc_test_bench_sv_unit
+S1
+R3
+w1643651396
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc_test_bench.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc_test_bench.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc_test_bench.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc_test_bench.sv|
+!i113 1
+R6

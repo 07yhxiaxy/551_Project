@@ -1,0 +1,69 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/cadence_filt.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/cadence_filt.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module cadence_filt
+
+Top level modules:
+	cadence_filt
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/incline_sat.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/incline_sat.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module incline_sat
+
+Top level modules:
+	incline_sat
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/desiredDrive.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/desiredDrive.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module desiredDrive
+
+Top level modules:
+	desiredDrive
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/HW2_prob3.sv} {0 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/HW2_prob3.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module dff
+** Warning: C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/HW2_prob3.sv(20): (vlog-2275) 'dff' already exists and will be overwritten.
+
+-- Compiling module dff
+** Error: C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/HW2_prob3.sv(25): (vlog-2730) Undefined variable: 'reset'.
+
+-- Compiling module ff
+** Error: (vlog-13069) C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/HW2_prob3.sv(48): near "EOF": syntax error, unexpected end of source code.
+
+
+} {7.0 8.0 10.0 11.0} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/incline_sat_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/incline_sat_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module incline_sat_tb
+
+Top level modules:
+	incline_sat_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/cadence_filt_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/cadence_filt_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module cadence_filt_tb
+
+Top level modules:
+	cadence_filt_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/shifter_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/shifter_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module shifter_tb
+
+Top level modules:
+	shifter_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/desiredDrive_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/desiredDrive_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module desiredDrive_tb
+
+Top level modules:
+	desiredDrive_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/shfter.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 02/shfter.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}}

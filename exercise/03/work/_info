@@ -1,0 +1,187 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02
+vdff
+Z0 !s110 1643997763
+!i10b 1
+!s100 6=9kC^I]@0c[cYOK7XNXE3
+I=[;0O^3=[UUT3ViNYoILk3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03
+w1643994423
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/dff.v
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/dff.v
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1643997763.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/dff.v|
+!i113 1
+Z5 o-work work
+vflop
+Z6 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z7 !s110 1644279261
+!i10b 1
+!s100 9mNhlYB:dc@Gjo86D][jI3
+I_HNO^AGbAnXBm4f1Oe9e<0
+R1
+!s105 flop_sv_unit
+S1
+R2
+w1644278824
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1644279261.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop.sv|
+!i113 1
+Z9 o-work work -sv
+vflop_tb
+R6
+R7
+!i10b 1
+!s100 M<afAB@2@9jCG31o5R;o@0
+I?D<;Scn6IKb_5KODk;h;13
+R1
+!s105 flop_tb_sv_unit
+S1
+R2
+w1644279259
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop_tb.sv|
+!i113 1
+R9
+vPID
+R6
+Z10 !s110 1644256955
+!i10b 1
+!s100 =VA<D:3<DGMc<EhU9kVTA3
+I7<79P3S4kX^XhEQYRGBEJ1
+R1
+!s105 PID_cntrl_sv_unit
+S1
+R2
+w1644256948
+8C:\Users\07yhx\Downloads\PID_cntrl.sv
+FC:\Users\07yhx\Downloads\PID_cntrl.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1644256955.000000
+!s107 C:\Users\07yhx\Downloads\PID_cntrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\07yhx\Downloads\PID_cntrl.sv|
+!i113 1
+R9
+n@p@i@d
+vPID_cntrl_tb
+R6
+R10
+!i10b 1
+!s100 h1IVGY`AY3^EA`6<G7dgB0
+I3lXc10Wf8>:jb6jEQf3H11
+R1
+!s105 PID_cntrl_tb_sv_unit
+S1
+R2
+w1644256585
+8C:/Users/07yhx/Downloads/PID_cntrl_tb.sv
+FC:/Users/07yhx/Downloads/PID_cntrl_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/07yhx/Downloads/PID_cntrl_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Downloads/PID_cntrl_tb.sv|
+!i113 1
+R9
+n@p@i@d_cntrl_tb
+vplant
+R6
+R10
+!i10b 1
+!s100 MY_aRNWYU[n73`;TR?7jk2
+IBHjIhX`[BSJ_^7MN3=@fe3
+R1
+!s105 plant_sv_unit
+S1
+R2
+w1644256584
+8C:/Users/07yhx/Downloads/plant.sv
+FC:/Users/07yhx/Downloads/plant.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/07yhx/Downloads/plant.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Downloads/plant.sv|
+!i113 1
+R9
+vsynch_detect
+R0
+!i10b 1
+!s100 <EfV0VgzlzFVVlO;h3^SZ1
+If=9_Ng]IK@TNN]PCPjFF51
+R1
+R2
+w1643997755
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect.v
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect.v|
+!i113 1
+R5
+vsynch_detect_tb
+R0
+!i10b 1
+!s100 8;Pah_aLI`V0U<<CfP]M<3
+In<:ig`OiOX@M5P:APOk360
+R1
+R2
+w1643994422
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect_tb.v
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/04/synch_detect_tb.v|
+!i113 1
+R5

@@ -1,0 +1,15 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/06/rshr_16.v} {1 {vlog -work work -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/06/rshr_16.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rshr_16
+
+Top level modules:
+	rshr_16
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/06/rshr_16_tb.v} {1 {vlog -work work -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/06/rshr_16_tb.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module rshr_16_tb
+
+Top level modules:
+	rshr_16_tb
+
+} {} {}}

@@ -1,0 +1,34 @@
+## Read Source File
+read_file -format sverilog { UART_tx.sv telemetry.sv }
+## Set top level to be telemetry
+current_design telemetry
+link
+
+## Set clock and dont change clk config
+create_clock -name "clk" -period 2.5 -waveform { 0 1.25 } clk
+set_dont_touch_network [find port clk]
+## Setup pointer that contain all inputs except clk
+set prim_inputs [remove_from_collection [all_inputs] [find port clk]]
+## Set input delay and drive all inputs
+set_input_delay -clock clk 5 [copy_collection $prim_inputs]
+set_driving_cell -lib_cell NAND2X1_LVT -library \saed32lvt_tt0p85v25c [copy_collection $prim_inputs]
+##Set output delay
+set_output_delay -clock clk 0.75 [all_outputs]
+set_load 0.15 [all_outputs]
+## Set max trans time
+set_max_transition 0.15 [current_design]
+## Set wire load model
+set_wire_load_model -name 16000 \-library saed32lvt_tt0p85v25c
+
+
+compile -map_effort low
+
+check_design
+
+report_area
+
+compile -map_effort medium
+
+ungroup –all -flatten
+
+write –format sverilog telemetry -output telemetry.vg

@@ -1,0 +1,10 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap_test.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap_test.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module nonoverlap_test
+-- Compiling module stim
+-- Compiling module observer
+
+Top level modules:
+	nonoverlap_test
+
+} {} {}}

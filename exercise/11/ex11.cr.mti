@@ -1,0 +1,31 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/SPI_mnrch_tb.sv} {1 {vlog -work work -sv -stats=none {C:\Users\07yhx\Desktop\2022 Spring\ECE 551\Ex\11\SPI_mnrch_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module SPI_mnrch_tb
+
+Top level modules:
+	SPI_mnrch_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/SPI_ADC128S.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/SPI_ADC128S.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module SPI_ADC128S
+
+Top level modules:
+	SPI_ADC128S
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/ADC128S.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/ADC128S.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ADC128S
+
+Top level modules:
+	ADC128S
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/SPI_mnrch.sv} {2 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/SPI_mnrch.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module SPI_mnrch
+** Warning: C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11/SPI_mnrch.sv(34): (vlog-2182) 'shft' might be read before written in always_comb or always @* block.
+
+
+Top level modules:
+	SPI_mnrch
+
+} {} {}}

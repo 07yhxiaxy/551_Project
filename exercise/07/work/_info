@@ -1,0 +1,122 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/06
+vcadence_filt
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1645208625
+!i10b 1
+!s100 =3WzND1:3F<mj`>Mmfbgm0
+Icod1M]`9>@B89YF?mgh^51
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 cadence_filt_sv_unit
+S1
+Z3 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07
+w1645208619
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt.sv
+L0 1
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1645208625.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt.sv|
+!i113 1
+Z6 o-work work -sv
+vcadence_filt_tb
+R0
+R1
+!i10b 1
+!s100 oVc1k444XT]QNI^]AeZ2h2
+IGoI1=NB9iS;0EUOOYYSX^0
+R2
+!s105 cadence_filt_tb_sv_unit
+S1
+R3
+w1645204013
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/cadence_filt_tb.sv|
+!i113 1
+R6
+vdff
+R1
+!i10b 1
+!s100 6=9kC^I]@0c[cYOK7XNXE3
+I3SW4gR7Hhz^<U9UT3]hg51
+R2
+R3
+w1643994423
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/dff.v
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/dff.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/08/dff.v|
+!i113 1
+o-work work
+vincline_sat
+R0
+Z7 !s110 1644609429
+!i10b 1
+!s100 73ECZb_Xd9Na2;6JbG2gV3
+IV_70ig:_nDaDM_TCna4I]3
+R2
+!s105 incline_sat_sv_unit
+S1
+R3
+w1644608401
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z8 !s108 1644609429.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat.sv|
+!i113 1
+R6
+vincline_sat_tb
+R0
+R7
+!i10b 1
+!s100 C2V2i`:iKjf5CSLN<JzOc1
+IeeKoij9R>9hAaNZGaoe0m2
+R2
+!s105 incline_sat_tb_sv_unit
+S1
+R3
+w1644609425
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/07/incline_sat_tb.sv|
+!i113 1
+R6

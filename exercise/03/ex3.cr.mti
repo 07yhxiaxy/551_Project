@@ -1,0 +1,15 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop_tb1.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop_tb1.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module flop_tb
+
+Top level modules:
+	flop_tb
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/03/flop.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module flop
+
+Top level modules:
+	flop
+
+} {} {}}

@@ -1,0 +1,149 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13
+vnonoverlap
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1648662218
+!i10b 1
+!s100 KFPgKnRPdBcA[M6?eC9iC0
+Iji?>anD:Q3LVL:TTjgoeL3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 nonoverlap_sv_unit
+S1
+Z3 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15
+w1648662209
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap.sv
+L0 1
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1648662218.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap.sv|
+!i113 1
+Z6 o-work work -sv
+vnonoverlap_test
+R0
+R1
+!i10b 1
+!s100 m[=HbPMSc:9cE>Nnk6g_Q2
+InaVl9]gP]Dl6CM>MfHMG;0
+R2
+Z7 !s105 nonoverlap_test_sv_unit
+S1
+R3
+Z8 w1648589473
+Z9 8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap_test.sv
+Z10 FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap_test.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap_test.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/nonoverlap_test.sv|
+!i113 1
+R6
+vobserver
+R0
+R1
+!i10b 1
+!s100 KS<R2[_^fX:lGXA5Nj8YY2
+I]JN;2^=JUBjO22gG1cE_93
+R2
+R7
+S1
+R3
+R8
+R9
+R10
+L0 116
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+vPB_release
+R0
+R1
+!i10b 1
+!s100 ?NCn`So^[mP<2bCEI8DhL3
+IbQKzKgbhA^7Y0R9XVA2Q_0
+R2
+!s105 PB_release_sv_unit
+S1
+R3
+w1648606477
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/PB_release.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/PB_release.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/PB_release.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/PB_release.sv|
+!i113 1
+R6
+n@p@b_release
+vreset_synch
+R0
+R1
+!i10b 1
+!s100 W>GInjI84]L^C>[Y]G4N^3
+I3?D=E>BZRT_SiOGnDID<D2
+R2
+!s105 reset_synch_sv_unit
+S1
+R3
+w1648656909
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/reset_synch.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/reset_synch.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/reset_synch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/15/reset_synch.sv|
+!i113 1
+R6
+vstim
+R0
+R1
+!i10b 1
+!s100 <An]O73M[TZS_i2im4[<D0
+I1oFOcS4@0WZmK2XacUDj72
+R2
+R7
+S1
+R3
+R8
+R9
+R10
+L0 47
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6

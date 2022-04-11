@@ -1,0 +1,15 @@
+{C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ring_osc
+
+Top level modules:
+	ring_osc
+
+} {} {}} {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc_test_bench.sv} {1 {vlog -work work -sv -stats=none {C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/02/ring_osc_test_bench.sv}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module ring_osc_test_bench
+
+Top level modules:
+	ring_osc_test_bench
+
+} {} {}}

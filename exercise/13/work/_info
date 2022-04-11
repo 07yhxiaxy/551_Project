@@ -1,0 +1,195 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03
+vbrushless
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1647021101
+!i10b 1
+!s100 ?;X3CCzgOL6D<9dEenJ`R3
+IVZ^JzIolNh=5_l;]JmSBO3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 brushless_sv_unit
+S1
+Z3 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13
+w1647020397
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless.sv
+L0 1
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1647021101.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless.sv|
+!i113 1
+Z6 o-work work -sv
+vbrushless_mtr_drv_tb
+R0
+R1
+!i10b 1
+!s100 _TJLNo?D7emfa@ed7`NM13
+IK8896N>zRzzPK9kGJK7H]0
+R2
+!s105 brushless_mtr_drv_tb_sv_unit
+S1
+R3
+w1647021073
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb.sv|
+!i113 1
+R6
+vbrushless_mtr_drv_tb2
+R0
+R1
+!i10b 1
+!s100 0i^Qd=fBVKSUjf`d;`9811
+INl[7<hNRhdB9e^YZCH@jo2
+R2
+!s105 brushless_mtr_drv_tb2_sv_unit
+S1
+R3
+w1642183144
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb2.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb2.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/brushless_mtr_drv_tb2.sv|
+!i113 1
+R6
+vcoil_volt
+R0
+R1
+!i10b 1
+!s100 6=c3_2eYf:E9G`LaAB@lh2
+IRGI^gMoY;:g[Gge18WoTi3
+R2
+!s105 coil_volt_sv_unit
+S1
+R3
+w1642182412
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/coil_volt.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/coil_volt.sv
+L0 6
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/coil_volt.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/coil_volt.sv|
+!i113 1
+R6
+vhub_wheel_model
+R0
+R1
+!i10b 1
+!s100 G<nX5b6_dAL3;nhiS:Ml10
+I^lk;b26Pg4JJ5YeagZgR91
+R2
+!s105 hub_wheel_model_sv_unit
+S1
+R3
+w1647015377
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/hub_wheel_model.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/hub_wheel_model.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/hub_wheel_model.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/hub_wheel_model.sv|
+!i113 1
+R6
+vmtr_drv
+R0
+R1
+!i10b 1
+!s100 IU1;fZ91d<Y2fEY[JL<``1
+IzhAo^Z_LobgO80bBUDn:`1
+R2
+!s105 mtr_drv_sv_unit
+S1
+R3
+w1647020443
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/mtr_drv.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/mtr_drv.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/mtr_drv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/mtr_drv.sv|
+!i113 1
+R6
+vnonoverlap
+R0
+R1
+!i10b 1
+!s100 ?6kK]J@9EkQQ_GeP94XT`1
+ITKzk=P:EKg54bNIFLS;aJ1
+R2
+!s105 nonoverlap_sv_unit
+S1
+R3
+w1645812117
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/nonoverlap.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/nonoverlap.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/nonoverlap.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/nonoverlap.sv|
+!i113 1
+R6
+vPWM
+R0
+R1
+!i10b 1
+!s100 iC<dk:IzTQh55>VaG_@`d2
+IzV8oagXXhN9IfH@Ejh@No3
+R2
+!s105 PWM_sv_unit
+S1
+R3
+w1645641729
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/PWM.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/PWM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/PWM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/13/PWM.sv|
+!i113 1
+R6
+n@p@w@m

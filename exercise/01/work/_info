@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+vcounter
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z0 !s110 1643390704
+!i10b 1
+!s100 TFDZ]9Ro=mCjXLOACddZz1
+INmD`4AAAe1GGF6c@LWVbh3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 counter_sv_unit
+S1
+Z2 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01
+w1643390697
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter.sv
+L0 1
+Z3 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z4 !s108 1643390704.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter.sv|
+!i113 1
+o-work work -sv
+vup_dwn_tb
+R0
+!i10b 1
+!s100 7NW6S]llCPRZXoFAn5^[l2
+I6L>gMA[gicX?KT]zK]KgM3
+R1
+R2
+w1643390546
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter_tb.v
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/01/counter_tb.v|
+!i113 1
+o-work work

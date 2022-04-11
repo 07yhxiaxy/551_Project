@@ -1,0 +1,294 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/11
+vADC128S
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1647018991
+!i10b 1
+!s100 46ElXGa;<nZCj`bV[:Gec1
+IaPNcND07PI;nB6LCB^Vog3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ADC128S_sv_unit
+S1
+Z3 dC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03
+w1646206608
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/ADC128S.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/ADC128S.sv
+L0 1
+Z4 OV;L;10.4d;61
+r1
+!s85 0
+31
+Z5 !s108 1647018991.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/ADC128S.sv|
+!i113 1
+Z6 o-work work -sv
+n@a@d@c128@s
+vnonoverlap
+R0
+Z7 !s110 1647018992
+!i10b 1
+!s100 UlNE0_lTXl3A3a3XW[Of>0
+I3Q]XYYlUS[k<0VCLEZ?Ba1
+R2
+!s105 nonoverlap_sv_unit
+S1
+R3
+w1646888409
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap.sv|
+!i113 1
+R6
+vnonoverlap_tb
+R0
+R7
+!i10b 1
+!s100 l8OZG1kmJ6zfRa:6DE77T3
+ILW2U?4^30_@g2OIR_:Agh2
+R2
+!s105 nonoverlap_tb_sv_unit
+S1
+R3
+w1646888506
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+Z8 !s108 1647018992.000000
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/nonoverlap_tb.sv|
+!i113 1
+R6
+vPWM
+R0
+R7
+!i10b 1
+!s100 iC<dk:IzTQh55>VaG_@`d2
+IM8Vc0dBz4z^7l;KcEKJK62
+R2
+!s105 PWM_sv_unit
+S1
+R3
+w1645641729
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM.sv|
+!i113 1
+R6
+n@p@w@m
+vPWM_tb
+R0
+R7
+!i10b 1
+!s100 E]HYhd>3z=0>AK?<TiR^K1
+I5Azk?KM`NQSe84kR7?Q<30
+R2
+!s105 PWM_tb_sv_unit
+S1
+R3
+w1645642119
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/PWM_tb.sv|
+!i113 1
+R6
+n@p@w@m_tb
+vSPI_ADC128S
+R0
+R7
+!i10b 1
+!s100 ;E62=i88@ghW83DU@9;CK1
+IoK3dcP5_iiWToM?M04>WS0
+R2
+!s105 SPI_ADC128S_sv_unit
+S1
+R3
+w1646206609
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_ADC128S.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_ADC128S.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_ADC128S.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_ADC128S.sv|
+!i113 1
+R6
+n@s@p@i_@a@d@c128@s
+vSPI_mnrch
+R0
+R7
+!i10b 1
+!s100 ^JW<kmiBXO?UV@Gk[lEPJ2
+I4adR:OEKJKi;^;9VB345R0
+R2
+!s105 SPI_mnrch_sv_unit
+S1
+R3
+w1646890886
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch.sv|
+!i113 1
+R6
+n@s@p@i_mnrch
+vSPI_mnrch_tb
+R0
+R7
+!i10b 1
+!s100 QmY6b<?azEcZY6zD?KLQT3
+IhLnXR3mhG48Kz36`N2N:92
+R2
+!s105 SPI_mnrch_tb_sv_unit
+S1
+R3
+w1646891508
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/SPI_mnrch_tb.sv|
+!i113 1
+R6
+n@s@p@i_mnrch_tb
+vtelemetry
+R0
+R1
+!i10b 1
+!s100 ;CY3WEX70S176DLCigK6@2
+I:<YcEXTGPT;h;YBT9E7Q00
+R2
+!s105 telemetry_sv_unit
+S1
+R3
+w1646886215
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry.sv|
+!i113 1
+R6
+vtelemetry_tb
+R0
+R1
+!i10b 1
+!s100 82C9DBY253S[h0TCcMM1S1
+Id8RJM[abGdDbYgBQWV3Al2
+R2
+!s105 telemetry_tb_sv_unit
+S1
+R3
+w1646885966
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry_tb.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/telemetry_tb.sv|
+!i113 1
+R6
+vUART_rcv
+R0
+R1
+!i10b 1
+!s100 MBb47WGd32`OOK8:kRfJX3
+IUB<m<l>]lfjNE2FEYG=JT3
+R2
+!s105 UART_rcv_sv_unit
+S1
+R3
+w1646858065
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_rcv.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_rcv.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_rcv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_rcv.sv|
+!i113 1
+R6
+n@u@a@r@t_rcv
+vUART_tx
+R0
+R1
+!i10b 1
+!s100 gg7Z3ATZmDYoMNdni17W63
+I^UE0T2I4Jl?Sd4dbAZ_V10
+R2
+!s105 UART_tx_sv_unit
+S1
+R3
+w1646858064
+8C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_tx.sv
+FC:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_tx.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_tx.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/07yhx/Desktop/2022 Spring/ECE 551/Ex/HW 03/UART_tx.sv|
+!i113 1
+R6
+n@u@a@r@t_tx
